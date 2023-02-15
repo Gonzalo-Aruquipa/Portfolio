@@ -341,7 +341,7 @@ img {
 
 /* ===== WORK =====*/
 .work__container {
-  row-gap: rem;
+  row-gap: 2rem;
 }
 
 .work__img {
